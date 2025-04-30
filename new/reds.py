@@ -2,6 +2,7 @@ programmers = ["I'm an expert Python Programmer",
                "I'm an expert Javascript Programmer",
                "I'm a professional Python Programmer"
                "I'm a beginner C++ Programmer"
+               I'm a beginner C++ Programmer2"
 ]
 #method 1
 for p in programmers:
